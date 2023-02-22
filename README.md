@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hi, my name is Sasha, I'm 42 years young and I'm training to become a junior web developer in the full-stack area.I am enthusiastic and enjoy learning new things.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi, my name is Sasha, I'm 42 years young and I'm training to become a junior web developer in the full-stack area.I am enthusiastic and enjoy learning new things.
 ==========================================================================================================================================================================================================================================================================================
 
 As a trained industrial mechanic, I have always acquired new technical knowledge and integrated this into my daily work. So I started to become a Web Developer.

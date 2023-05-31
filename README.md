@@ -50,9 +50,7 @@ something extraordinary together! 🌟
 <a href="http://www.github.com/sasa405"><img src="https://github-readme-stats.vercel.app/api?username=sasa405&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="sasa405's GitHub stats" /></a>
 
 <a href="http://www.github.com/sasa405"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sasa405&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sasa405"><img src="https://github-readme-stats.vercel.app/api?username=sasa405&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="sasa405's GitHub stats" /></a>
 
 <a href="http://www.github.com/sasa405"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sasa405&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 

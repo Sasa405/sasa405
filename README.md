@@ -25,7 +25,7 @@ Let's create something extraordinary together! 🌟
 
 
 * 🌍  I'm based in I'm based in NRW Germany
-* 🖥️  See my portfolio at [See my portfolio at](http://sasa405.github.io/Portfolio1)
+* 🖥️  See my portfolio at (http://sasa405.github.io/Portfolio1)
 * 🧠  I'm learning everything JavaScript
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm secretly Spiderman...but don't tell anyone

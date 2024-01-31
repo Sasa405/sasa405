@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sasha, I am 44 years young, with a successful education as a web developer, I am enthusiastic and like to learn new things..
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sasha, I am 44 years young, with a successful education as a web developer, I am enthusiastic and like to learn new things.
 ===========================================================================================================================================================================================================================================================================
 
 
